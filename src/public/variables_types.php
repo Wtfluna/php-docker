@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Variable Types</title>
 </head>
+
 <body>
     <?php
     $firstName = "Adeline";
@@ -25,6 +27,7 @@
         echo "<p>I am not hungry.</p>";
     }
     ?>
-    <a href="/index.php">Retour au menu</a>
+    <a href="index.php">Back to menu</a>
 </body>
+
 </html>

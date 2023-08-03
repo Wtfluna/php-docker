@@ -4,6 +4,6 @@
     <title>Forms</title>
 </head>
 <body>
-<a href="/index.php">Retour au menu</a>
+<a href="/index.php">Back to menu</a> 
 </body>
 </html>
