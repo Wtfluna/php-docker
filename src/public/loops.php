@@ -132,14 +132,13 @@
             "VA" => "Vatican City"
         );
         ?>
-    <form action="process_form.php" method="post">
+    <form>
         <label for="country">Select Country:</label>
         <select name="country" id="country">
             <?php foreach ($countries as $country) { ?>
                 <option value="<?php echo $country; ?>"><?php echo $country; ?></option>
             <?php } ?>
         </select>
-        <input type="submit" value="Submit">
     </form>
     </p>
     <a href="/index.php">Back to menu</a>

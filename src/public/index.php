@@ -23,4 +23,10 @@ declare(strict_types=1); ?>
     <li>
         <a href="/forms.php">Forms</a>
     </li>
+    <li>
+        <a href="/oop-classes.php">OOP-Classes</a>
+    </li>
+    <li>
+        <a href="/oop-extending.php">OOP-Extending</a>
+    </li>
 </ol>
